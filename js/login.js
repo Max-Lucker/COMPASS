@@ -46,9 +46,11 @@ function login() {
 }
 
 function redirectOnMetuniverse() {
+  console.log("redirect");
   // redirect on  metuniverse
 }
 
 function getNewPassword() {
+  console.log("redirect");
   // redirect user for update password
 }
