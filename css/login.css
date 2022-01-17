@@ -1,0 +1,42 @@
+.form-sign-in {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #0f3750;
+}
+
+.btns-row {
+  display: flex;
+  gap: 20px;
+}
+
+.btn-login {
+  background: #d5e0ed;
+  color: #0f3750;
+  font-weight: 500;
+}
+
+.forgot-password {
+  display: flex;
+  justify-content: flex-end;
+  color: #d5e0ed;
+}
+
+.forgot-password:hover {
+  color: #00c2d0;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.btn-metuniverse {
+  background: #ffd068;
+  color: #0f3750;
+  font-weight: 500;
+}
+
+.metuniverse {
+  height: 17px;
+  margin-top: -3px;
+}
